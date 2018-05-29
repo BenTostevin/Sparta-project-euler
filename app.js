@@ -1,5 +1,5 @@
 console.log('working');
-//CLASSWORK
+//HOMEWORK
 //#### BONUS ####
 
 // 11. Write a function called 'convertArrayToAnObject' that turns an array (with an even number of elements) into a hash, by
